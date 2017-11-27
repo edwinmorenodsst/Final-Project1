@@ -1,0 +1,17 @@
+body{
+  background-image: url("http://bg.jellypages.com/neon-rings/b.jpg");
+  text-align: center;
+  font-size: 20px;
+}
+.wrapper{
+  width: auto;
+  height: auto;
+}
+h2 {
+  color: white;
+  font-size: 40px;
+
+}
+h1 {
+color: white;
+font-size: 60px; }
